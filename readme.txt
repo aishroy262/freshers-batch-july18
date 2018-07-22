@@ -1,1 +1,1 @@
-THis is the assignment of git.The assignment involves some basic concepts and commands to create a project repository and add files to it(master).
+THis is the assignment of git.The assignment involves some basic concepts and commands to create a project repository and add files to it(master).The second assignment is based on branching.
